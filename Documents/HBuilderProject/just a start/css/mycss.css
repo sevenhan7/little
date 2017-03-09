@@ -1,0 +1,18 @@
+#tb,tr,td,th{
+	border: 1px solid burlywood;
+	
+}
+#tb{
+	border-collapse: collapse;
+	width: 350px;
+	height: 350px;
+	text-align: center;
+}
+.alt{
+	background-color: azure
+	
+}
+#tb th{
+	background-color: aquamarine;
+	color: blue;
+}
